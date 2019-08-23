@@ -54,3 +54,55 @@ em {
 strong {
 	font-weight: bold;
 }
+
+
+
+.wrapper {
+	display: flex;
+	justify-content:space-between;
+	margin-left:5%;
+	margin-right: 5%;
+	margin-top:15px;
+	height: 15%;
+}
+
+.container {
+	font-family: 'Titillium Web';
+	font-size: 2vmax;
+	color: $darkblue;
+	padding: 20px;
+	position: inherit;
+	width:45%;
+	text-align: center;
+	background: #CEF7FD;
+	border-style: solid;
+	border-radius: 1vmax;
+	border-color: $darkblue;
+	border-width: 1px;
+}
+
+div.container {
+	a { color: $darkblue; font-size: 120%; }
+}
+
+.centerList {
+	display: block ;
+	margin-left:15%;
+	margin-right: 15%;
+	margin-top:15px;
+	margin-bottom: 15px;
+}
+
+.items {
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: $darkblue;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 30px;
+}
+
+div.items {
+	a {color: $darkblue; }
+	h1 {color: $darkblue; font-size: 300%;}
+}
