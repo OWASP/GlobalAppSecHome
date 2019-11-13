@@ -1,5 +1,5 @@
 ---
-title: Conference Program Team
+title: Global AppSec Program Team
 ---
 
 Global AppSec events offer practitioners worldwide the opportunity to come together to share their passion and knowledge of OWASP, infosec, and appsec.  Each event features presentations from experts in the field, networking events, and opportunities to share experiences amongst the infosec community. 
@@ -47,7 +47,7 @@ OWASP Staff Support:
 * All other Conference-related activities not explicitly delegated to the Program Team.
  
 ## Compensation 
-Team members will receive economy-class airfare, lodging, airport transfers, and meals for up to two face-to-face meetings in addition to the Global AppSec for which they plan the program.
+Team members will receive economy-class airfare, lodging, airport transfers, and meals for the Global AppSec for which they plan the program.
 
 ## Application
 **Please provide a video** that includes a brief description of your background including your involvement in the OWASP community,  prior conference involvement, and why you'd like to be a member.
