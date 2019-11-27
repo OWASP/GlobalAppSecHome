@@ -16,7 +16,7 @@ Finally, Team members will be asked to sign an agreement at the beginning of the
 ## Responsibilities  
 The Program Team will meet on a regular cadence, which will become meet more frequently as circumstances require. Team membership is a substantial commitment beginning prior to the Global AppSec and up to one-month post-event.
 
-Team Members: 
+**Team Members:**
 * Identify program themes 
 * Develop detailed timeline for submission and review process 
 * Promote the open call for submissions (training and papers) amongst subject matter experts and encourage submissions 
@@ -31,12 +31,12 @@ Team Members:
    * Introducing keynote speakers and facilitators 
    * Providing closing remarks  
 
-Suggested Support: 
+**Suggested Support:** 
 * Recommend keynote speakers who align with the direction of the event  
 * Assist in promoting the Global AppSec communities, corporate contacts, and other markets 
 * Identify and make connections with potential corporate partners 
 
-OWASP Staff Support: 
+**OWASP Staff Support:** 
 * Develop Speaker Acknowledgement Form 
 * Develop and send accept/reject letters 
 * Send and track receipt of Speaker Acknowledgement Forms
@@ -51,5 +51,7 @@ Team members will receive economy-class airfare, lodging, airport transfers, and
 
 ## Application
 **Please provide a video** that includes a brief description of your background including your involvement in the OWASP community,  prior conference involvement, and why you'd like to be a member.
+
+**Deadline for Dublin applications is December 15, 2019, San Francisco is January 2, 2020.**
 
 <div id="wufoo-qg5xamb04s1ubu"> Fill out my <a href="https://owasp.wufoo.com/forms/qg5xamb04s1ubu">online form</a>. </div> <script type="text/javascript"> var qg5xamb04s1ubu; (function(d, t) { var s = d.createElement(t), options = { 'userName':'owasp', 'formHash':'qg5xamb04s1ubu', 'autoResize':true, 'async':true, 'host':'wufoo.com', 'header':'show', 'ssl':true }; s.src = ('https:' == d.location.protocol ?'https://':'http://') + 'secure.wufoo.com/scripts/embed/form.js'; s.onload = s.onreadystatechange = function() { var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return; try { qg5xamb04s1ubu = new WufooForm(); qg5xamb04s1ubu.initialize(options); qg5xamb04s1ubu.display(); } catch (e) { } }; var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr); })(document, 'script'); </script>
